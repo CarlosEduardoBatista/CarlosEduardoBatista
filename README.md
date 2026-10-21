@@ -10,7 +10,10 @@
   <img alt="Computer Science student at Universidade de Passo Fundo" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&repeat=false&center=true&vCenter=true&width=600&height=28&lines=Computer+Science+student+at+Universidade+de+Passo+Fundo&color=59636E">
 </picture>
 
-[linkedin](https://www.linkedin.com/in/carlos-eduardo-batista-b6b718233) · [email](mailto:carloseduardobc13@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&repeat=false&center=true&vCenter=true&width=600&height=26&lines=web+%C2%B7+mobile+%C2%B7+automation+%C2%B7+integrations&color=7AA2F7">
+  <img alt="web · mobile · automation · integrations" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&repeat=false&center=true&vCenter=true&width=600&height=26&lines=web+%C2%B7+mobile+%C2%B7+automation+%C2%B7+integrations&color=3B5BDB">
+</picture>
 
 <br>
 
