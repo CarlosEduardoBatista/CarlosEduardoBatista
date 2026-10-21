@@ -11,15 +11,13 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&repeat=false&center=true&vCenter=true&width=600&height=26&lines=web+%C2%B7+mobile+%C2%B7+automation+%C2%B7+integrations&color=7AA2F7">
-  <img alt="web · mobile · automation · integrations" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&repeat=false&center=true&vCenter=true&width=600&height=26&lines=web+%C2%B7+mobile+%C2%B7+automation+%C2%B7+integrations&color=3B5BDB">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&repeat=false&center=true&vCenter=true&width=600&height=48&lines=web+%C2%B7+mobile+%C2%B7+automation+%C2%B7+integrations&color=7AA2F7">
+  <img alt="web · mobile · automation · integrations" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&repeat=false&center=true&vCenter=true&width=600&height=48&lines=web+%C2%B7+mobile+%C2%B7+automation+%C2%B7+integrations&color=3B5BDB">
 </picture>
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=go,js,php,py,cpp,postgres,mongodb,react,flutter,docker,linux,git&perline=6" alt="stack">
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=CarlosEduardoBatista&hide_border=true&background=00000000&ring=7AA2F7&fire=7AA2F7&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7AA2F7&sideLabels=8B949E&dates=6E7681&stroke=30363D">
