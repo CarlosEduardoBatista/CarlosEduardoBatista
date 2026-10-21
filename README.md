@@ -5,7 +5,10 @@
   <img alt="hi, i'm cadu" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=2500&color=1F2328&center=true&vCenter=true&width=600&height=60&lines=hi%2C+i'm+cadu;full-stack+developer">
 </picture>
 
-student at universidade de passo fundo (upf)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&repeat=false&center=true&vCenter=true&width=600&height=28&lines=student+at+universidade+de+passo+fundo+%28upf%29&color=8B949E">
+  <img alt="student at Universidade de Passo Fundo" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&repeat=false&center=true&vCenter=true&width=600&height=28&lines=student+at+universidade+de+passo+fundo+%28upf%29&color=59636E">
+</picture>
 
 [linkedin](https://www.linkedin.com/in/carlos-eduardo-batista-b6b718233) · [email](mailto:carloseduardobc13@gmail.com)
 
